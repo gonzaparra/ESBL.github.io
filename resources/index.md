@@ -1,30 +1,20 @@
 ---
-title: Resources
+title: "Resources"
+layout: default
+permalink: /resources/
 ---
 
-# <i class="fas fa-tools"></i>Resources
+<h2>Resources</h2>
 
-<!-- section break -->
-
-## Software
-
-The following software is primarily developed or maintained by the ESB Lab or 
-by members of the ESB Lab in conjunction with others.
-
-{% capture html %}
-{% include resource-list.html type="software" size="large" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-{% capture html %}
-{% include resource-list.html type="other" size="medium" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
-
-{% capture html %}
-{% include resource-list.html type="legacy" size="small" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
+<ul style="list-style: none; padding: 0;">
+  {% for resource in site.data.resources %}
+    <li style="margin-bottom: 20px;">
+      <a href="{{ resource.link }}" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
+        {% if resource.image %}
+          <img src="{{ '/assets/img/' | append: resource.image }}" alt="{{ resource.title }}" style="height: 50px; margin-right: 15px;" />
+        {% endif %}
+        <span style="font-size: 1.2em;">{{ resource.title }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
