@@ -5,6 +5,7 @@ permalink: /resources/
 ---
 
 <h2>Resources</h2>
+The following software is primarily developed or maintained by the ESB Lab or by members of the ESB Lab in conjunction with others.
 
 <ul style="list-style: none; padding: 0;">
   {% for resource in site.data.resources %}
