@@ -34,3 +34,10 @@
   repo: proteinphysiologylab/frustratometeR
   url: http://frustratometer.qb.fcen.uba.ar/
 
+- title: FrustraEvo Server
+  type: software
+  image: images/frustra.png
+  description: Web server to quantify local frustration conservation in protein families. 
+  repo: proteinphysiologylab/FrustraEvo
+  url: https://frustraevo.bsc.es/
+
