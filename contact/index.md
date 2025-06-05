@@ -4,7 +4,7 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Life Sciences Department]([https://www.cs.umd.edu/](https://www.bsc.es/discover-bsc/organisation/scientific-structure/life-sciences), at the [Barcelona Supercomputing Center]([https://www.umd.edu](https://www.bsc.es/).
+Our lab is part of the [Life Sciences Department](https://www.bsc.es/discover-bsc/organisation/scientific-structure/life-sciences), at the [Barcelona Supercomputing Center](https://www.bsc.es/).
 We are located on the 4th floor of the Repsol Building.
 
 {% include figure.html image="images/bsc.jpg" width="100%" %}
@@ -12,9 +12,9 @@ We are located on the 4th floor of the Repsol Building.
 ## Email
 
 <style type="text/css">
-   span.codedirection { unicode-bidi:bidi-override; direction: rtl; }
+   span.codedirection { unicode-bidi: bidi-override; direction: rtl; }
 </style>
-<span class="codedirection">ude.dmu.sc@bor</span>
+<span class="codedirection">se.csb@arrap.olaznog</span>
 {:.center}
 
 ## Phone
