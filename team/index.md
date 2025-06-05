@@ -12,9 +12,9 @@ redirect_from:
 
 ## Current Members
 
-Our lab is a team focused on improving the reach, accuracy, and speed of computational analysis, specifically as
-it relates to genomics (and Biology more broadly).  We are a varied and friendly bunch.  If you're interested in 
-the work we're doing, please reach out!
+We are a group of diverse and enthusiastic scientists from different levels, nationalities and interests. 
+
+If you're interested in joining our team , please reach out!
 
 {% capture html %}
 {% include team-list.html role="pi" group="current" %}
