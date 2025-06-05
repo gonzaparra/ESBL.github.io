@@ -4,10 +4,10 @@ title: Contact
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Computer Science](https://www.cs.umd.edu/), at the [University of Maryland](https://www.umd.edu).
-We are located on the 3rd floor of the [Brendan Iribe Center for Computer Science and Engineering](https://iribe.umd.edu/).
+Our lab is part of the [Life Sciences Department]([https://www.cs.umd.edu/](https://www.bsc.es/discover-bsc/organisation/scientific-structure/life-sciences), at the [Barcelona Supercomputing Center]([https://www.umd.edu](https://www.bsc.es/).
+We are located on the 4th floor of the Repsol Building.
 
-{% include figure.html image="images/iribe.jpg" width="100%" %}
+{% include figure.html image="images/bsc.jpg" width="100%" %}
 
 ## Email
 
@@ -19,7 +19,7 @@ We are located on the 3rd floor of the [Brendan Iribe Center for Computer Scienc
 
 ## Phone
 
-[(301) 405-7269](tel:+1-301-405-7269)
+(+34) 93 413 77 16
 {:.center}
 
 ## Address
@@ -28,10 +28,12 @@ We are located on the 3rd floor of the [Brendan Iribe Center for Computer Scienc
 Tip: put both a mailing address for mail/deliveries, AND a navigation-friendly address so people can find their way to you easily.
 {% endcomment %}
 
-3220 Brendan Iribe Center for Computer Science and Engineering
-University of Maryland
-College Park, MD 20740
+Barcelona Supercomputing Center
+Plaça d'Eusebi Güell, 1-3, Les Corts, 08034 Barcelona
+Barcelona
+Spain
+
 {:.center}
 
-[<i class="fas fa-external-link-alt"></i> on Google Maps](https://www.google.com/maps/place/Brendan+Iribe+Center+for+Computer+Science+and+Engineering/@38.9890953,-76.9387086,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7e9e636ed11:0x9aaf14503032f4a!8m2!3d38.9890953!4d-76.9365146)
+[<i class="fas fa-external-link-alt"></i> on Google Maps](https://maps.app.goo.gl/P6UXsBzQ4jB7MHk8A)
 {:.center}
