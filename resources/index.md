@@ -12,7 +12,7 @@ The following software is primarily developed or maintained by the ESB Lab or by
     <li style="margin-bottom: 20px;">
       <a href="{{ resource.link }}" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
         {% if resource.image %}
-          <img src="{{ '/assets/img/' | append: resource.image }}" alt="{{ resource.title }}" style="height: 50px; margin-right: 15px;" />
+          <img src="{{ '/images/' | append: resource.image }}" alt="{{ resource.title }}" style="height: 50px; margin-right: 15px;" />
         {% endif %}
         <span style="font-size: 1.2em;">{{ resource.title }}</span>
       </a>
