@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current Members
 
-We are a group of diverse and enthusiastic scientists from different levels, nationalities and interests. 
+We are a group of diverse and enthusiastic scientists from different levels, backgrounds and nationalities. 
 
 If you're interested in joining our team , please reach out!
 
@@ -30,9 +30,7 @@ If you're interested in joining our team , please reach out!
 <!-- section break -->
 
 ## Alumni
-
-We are incredibly proud of all of the COMBINE-lab alumni who have passed through the lab, for whatever period of time they were with us. Below
-is a list of lab alumni (if you feel you're missing from the list and would like to be added, please e-mail us):
+We are grateful to all the people who have contributed to our research at any point.
 
 {% capture html %}
 {% include team-list.html role="pi" group="alum" mini="true" %}
