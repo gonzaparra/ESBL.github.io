@@ -27,7 +27,7 @@
   repo: proteinphysiologylab/frustratometeR
   url: https://github.com/proteinphysiologylab/frustratometeR
 
-  - title: Frustratometer Server
+- title: Frustratometer Server
   type: software
   image: images/frustra.png
   description: Web server to localise and quantify frustration in protein structures. This software is developed and maintained in collaboration with Prof. Diego U. Ferreiro from the Protein Physiology Lab from Buenos Aires University in Argentina.
