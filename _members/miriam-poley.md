@@ -10,3 +10,5 @@ links:
   email: mpoley@bsc.es
   google-scholar: 6mf07WUAAAAJ
 ---
+
+M. Poley is PhD candidate within the Life Sciences department at the Barcelona Supercomputing Center (June 2025).
