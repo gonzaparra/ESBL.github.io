@@ -20,7 +20,11 @@ We are a group of diverse and enthusiastic scientists from different levels, bac
 If you're interested in joining our team , please reach out!
 
 {% include team-list.html role="principal-investigator" %}
-{% include team-list.html %}
+
+<!-- Optional: show other groups individually -->
+{% include team-list.html role="postdoc" %}
+{% include team-list.html role="phd_g" %}
+{% include team-list.html role="undergrad" %}
 
 <!-- section break -->
 
