@@ -1,6 +1,7 @@
 ---
 name: R. Gonzalo Parra
 title: Principal Investigator
+image: images/gonzaparra.jpeg
 aliases:
   - RG Parra
   - RG Parra
