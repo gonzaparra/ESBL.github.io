@@ -19,8 +19,8 @@ We are a group of diverse and enthusiastic scientists from different levels, bac
 
 If you're interested in joining our team , please reach out!
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
+{% include team-list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include team-list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
