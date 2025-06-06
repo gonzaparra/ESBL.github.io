@@ -4,7 +4,7 @@ title: PhD Student
 image: images/mfernandezmartin.jpg
 aliases:
   - M. Fernandez-martin
-role: phd_g
+role: phd
 links:
   orcid: 0000-0003-3231-7806
   email: miguel.fernandez@bsc.es
