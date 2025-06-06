@@ -18,7 +18,7 @@ R. Gonzalo Parra is a Ramon y Cajal researcher within the Life Sciences departme
 
 ### Education and main positions
 <ul>
-  <li>June 2025 - Present: Ramon y Cajal Junior Group Leader - Barcelona Supercomputing Center. Evolutionary Systems Biophysics Group.
+  <li>June 2025 - Present: Ramon y Cajal Junior Group Leader - Barcelona Supercomputing Center. Evolutionary Systems Biophysics Group.</li>
 
  <li>September 2021 - June 2025: Established Researcher (R3), Beatriu de Pinos / MSCA - Sello de Excelencia ISCIII-HEALTH fellowship. Life Sciences Department, Barcelona Supercomputing Center, Barcelona, Spain. 
 Supervisor: Prof. Alfonso Valencia.</li>
