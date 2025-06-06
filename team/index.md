@@ -1,5 +1,8 @@
 ---
 title: Team
+nav:
+  order: 3
+  tooltip: About our team
 redirect_from:
   - /lab-members
   - /alums
@@ -16,16 +19,10 @@ We are a group of diverse and enthusiastic scientists from different levels, bac
 
 If you're interested in joining our team , please reach out!
 
-{% capture html %}
-{% include team-list.html role="pi" group="current" %}
-{% include team-list.html role="postdoc" group="current" %}
-{% include team-list.html role="phd" group="current" %}
-{% include team-list.html role="undergrad" group="current" %}
-{% include team-list.html role="programmer" group="current" %}
-{% include team-list.html role="mascot" group="current" %}
-{% endcapture %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
-{% include centerer.html html=html %}
+{% include section.html dark=true %}
 
 <!-- section break -->
 
