@@ -1,14 +1,15 @@
 ---
-title: R. Gonzalo Parra
-search:
+name: R. Gonzalo Parra
+aliases:
   - RG Parra
   - RG Parra
-role: pi
-group: current
-image: images/gonzaparra.jpeg
-email: gonzalo.parra@bsc.es
-twitter: GonzaParra_
-github: .
+role: principal-investigator
+links:
+  orcid: 0000-0001-8713-9213
+  email: gonzalo.parra@bsc.es
+  google-scholar: TRGamd0AAAAJ
+  github: gonzaparra
+  twitter: GonzaParra_
 ---
 
 R. Gonzalo Parra is a Ramon y Cajal researcher within the Life Sciences department at BSC (June 2025).
