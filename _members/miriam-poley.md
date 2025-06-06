@@ -1,9 +1,9 @@
 ---
 name: Miriam Poley
 title: PhD Student
-image: images/gonzaparra.jpeg
+image: images/mpoley.jpeg
 aliases:
-  - M. Polety-Gil
+  - M. Poley-Gil
 role: PhD student
 links:
   orcid: 0009-0000-1579-6687
