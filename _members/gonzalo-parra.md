@@ -33,6 +33,7 @@ Supervisor: Prof. Diego U. Ferreiro.</li>
 
  <li>2006 - 2010. Undergraduate Training: BSc/MSc in Bioinformatics. Undergraduate Thesis Title: “Candidate Genes Involved in Pluripotency Maintenance in Embryonic Stem Cells Using Bioinformatic Methods”. Facultad de Ingeniería, Universidad Nacional de Entre Rios, Argentina. 
 Supervisors: Dr. Patricio Yankilevich and Dr. Carolina Perez-Castro.</li> 
+
 </ul>
 
 In addition to his research, Gonzalo has been involved in different organizations that promote bioinformatics at the international level mainly in the context of the International Society for Computational Biology (ISCB). In 2012, Gonzalo co-founded the ISCB Regional Student Group (RSG) Argentina and became one of the ISCB Student Council leaders until his retirement in 2025. Currently, he serves as a director at the ISCB Board of Directors. At the BSC Gonzalo collaborates with the Bioinfo4Women initiative. Since 2023, Gonzalo is one of the co-chairs in charge of the 3DSig Community of Specific Interest (COSI) from the In ternational Society for Computational Biology (ISCB).
