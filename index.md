@@ -4,7 +4,7 @@ title: Home
 
 # <i class="fas fa-flask"></i>Home
 
-At the Evolutionary Systems Biophysics Lab we investigate how biological function emerges from physical constraints and evolutionary pressures, across multiple scales, from proteins to regulatory networks. The group combines principles from statistical physics, systems biology, and computational modeling to explore how different abstractions of network dynamics shape biological complexity and adaptability.
+At the Evolutionary Systems Biophysics Group we investigate how biological function emerges from physical constraints and evolutionary pressures, across multiple scales, from proteins to regulatory networks. The group combines principles from statistical physics, systems biology, and computational modeling to explore how different abstractions of network dynamics shape biological complexity and adaptability.
 
 The lab was created in 2025, when [Gonzalo Parra](https://combine-lab.github.io/members/gonzalo-parra.html) started as a Ramon y Cajal researcher at the [Life Sciences Department at the Barcelona Supercomputing Center](https://www.bsc.es/discover-bsc/organisation/scientific-structure/life-sciences).
 
